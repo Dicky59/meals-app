@@ -27,6 +27,7 @@ export default function App() {
 
   return <MealsNavigator />;
 }
+//Lisätäänpä kommentti!
 
 const styles = StyleSheet.create({
   container: {
